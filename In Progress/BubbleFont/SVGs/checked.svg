@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000"
+   height="1000"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   version="1.0"
+   sodipodi:docname="checked.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.466"
+     inkscape:cx="726.58522"
+     inkscape:cy="500"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="839"
+     inkscape:window-height="680"
+     inkscape:window-x="0"
+     inkscape:window-y="10">
+    <sodipodi:guide
+       orientation="1,0"
+       position="200.47021,984.78919"
+       id="guide2383" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="493.56223,800.42918"
+       id="guide2405" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="25.242205,200.06785"
+       id="guide2407" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:40.90000153;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 511.38447,109.96477 C 315.53004,109.96477 156.16572,269.32909 156.16572,465.18352 C 156.16572,661.03795 315.53004,820.37099 511.38447,820.37102 C 707.2389,820.37102 866.60317,661.03795 866.60317,465.18352 C 866.60317,269.32909 707.2389,109.96477 511.38447,109.96477 z M 511.38447,150.83977 C 685.10943,150.83977 825.69697,291.45856 825.69697,465.18352 C 825.69694,638.90849 685.10943,779.49602 511.38447,779.49602 C 337.6595,779.49599 197.07197,638.90848 197.07197,465.18352 C 197.07197,291.45856 337.65951,150.83977 511.38447,150.83977 z"
+       id="path3254" />
+    <path
+       style="font-size:67.1499939px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       d="M 441.48816,413.94332 C 452.22934,413.94359 460.35422,422.75702 465.86282,440.38363 C 476.8794,473.43423 484.72886,489.95941 489.41123,489.95921 C 492.99145,489.95941 496.70961,487.20521 500.56573,481.69661 C 577.9584,357.75798 649.56751,257.50523 715.39326,180.93807 C 732.46882,161.10836 759.59765,151.19325 796.77985,151.19272 C 805.59273,151.19325 811.51425,152.01951 814.54443,153.6715 C 817.57349,155.32455 819.08829,157.3902 819.08886,159.86845 C 819.08829,163.72485 814.54387,171.29889 805.45557,182.59059 C 699.14304,310.3858 600.54281,445.34143 509.65459,587.45786 C 503.31968,597.37306 490.37496,602.33062 470.82038,602.33054 C 450.98995,602.33062 439.28462,601.50436 435.70434,599.85176 C 426.33989,595.72055 415.32311,574.65094 402.65395,536.64289 C 388.33198,494.50383 381.17107,468.06355 381.1712,457.32195 C 381.17107,445.75455 390.81076,434.60006 410.09029,423.85843 C 421.93318,417.24862 432.39913,413.94359 441.48816,413.94332"
+       id="text3419" />
+  </g>
+</svg>

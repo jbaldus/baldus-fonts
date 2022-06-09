@@ -1,0 +1,61 @@
+SplineFontDB: 2.0
+FontName: Untitled1
+FullName: Untitled1
+FamilyName: Untitled1
+Weight: Medium
+Copyright: Created by Jason Baldus,,, with FontForge 2.0 (http://fontforge.sf.net)
+Comments: 2009-1-21: Created.
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 800
+Descent: 200
+NeedsXUIDChange: 1
+XUID: [1021 632 1157686502 5773137]
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1232591938
+ModificationTime: 1232591998
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 0
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+DEI: 0
+Encoding: ISO8859-1
+UnicodeInterp: none
+NameList: Adobe Glyph List
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 1
+WinInfo: 50 25 9
+BeginChars: 256 1
+StartChar: colon
+Encoding: 58 58 0
+Width: 1000
+VWidth: 0
+Flags: H
+Fore
+199.941 0.0458984 m 0
+ 162.697 44.9219 197.428 138.868 251.262 138.868 c 0
+ 276.419 138.868 321.55 87.0752 321.55 58.2041 c 0
+ 321.55 2.625 232.962 -39.7422 199.941 0.0458984 c 0
+212.53 477.323 m 0
+ 179.987 548.746 224.047 632.445 278.955 603.511 c 0
+ 314.235 584.919 321.182 572.164 321.38 525.608 c 0
+ 321.686 453.945 239.743 417.597 212.53 477.323 c 0
+EndSplineSet
+EndChar
+EndChars
+EndSplineFont
